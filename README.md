@@ -1,4 +1,4 @@
-# Conversi-n-Decimal-Binario
+# Conversion-Decimal-Binario
 - Problema: Conversión de números decimales a números binarios y viceversa.
 - Ejecucción: Compilar programa con decimal_binario.c
 - Instrucciones de ejecución:
